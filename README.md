@@ -1,6 +1,7 @@
 # RUBY-CANVAS-API-COURSE
 This code is uploaded to share it with the community of Canvas users. 
 
+
 #   Developer:  Fede Arbelaez
 #   Date:       05-18-2018
 #   Problem:    Some clients have their contract based on enrrollments and if they don't use terms it's difficult 
